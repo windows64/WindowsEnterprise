@@ -1,1 +1,6 @@
-About
+About Windows Server 2012 R2
+
+Hyper-V Server 2012 R2
+Evaluations: Unlimited
+
+http://download.microsoft.com/download/F/7/D/F7DF966B-5C40-4674-9A32-D83D869A3244/9600.16384.WINBLUE_RTM.130821-1623_X64FRE_SERVERHYPERCORE_EN-US-IRM_SHV_X64FRE_EN-US_DV5.ISO
