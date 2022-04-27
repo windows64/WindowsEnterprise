@@ -1,3 +1,3 @@
 # Windows Enterprise
 
-https://www.microsoft.com/zh-tw/evalcenter/evaluate-windows-server
+https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server
